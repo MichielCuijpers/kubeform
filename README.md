@@ -4,6 +4,7 @@ Kubeform
 status](https://app.wercker.com/status/d51be2fb5ae796055969b74d7924a059/s/master
 "wercker
 status")](https://app.wercker.com/project/bykey/d51be2fb5ae796055969b74d7924a059)
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/kubeform)](https://bettercodehub.com)
 
 Deploy yourself a high-availability Kubernetes cluster, in minutes.
 Built on Terraform, CoreOS and Ansible.
